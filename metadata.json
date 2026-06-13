@@ -1,8 +1,0 @@
-{
-  "name": "Cinematic Athlete Portfolio",
-  "description": "A dark, highly stylized, cinematic portfolio website for an athlete with smooth full-screen slide transitions, large typography, and modern overlay elements.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
